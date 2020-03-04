@@ -2,7 +2,9 @@
 
 This repository contains anonymised behavioural data and code supporting:
 
-Olsen, Roepstorff & Bang (Submitted) "Knowing whom to learn from: individual differences in metacognition and weighting of social information"
+Olsen, Roepstorff & Bang (2019) "Knowing whom to learn from: individual differences in metacognition and weighting of social information", PsyArXiv.
+
+https://psyarxiv.com/jqheu/
 
 FigureX.m files will generate the specified plots and analyses from the paper.
 
